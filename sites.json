@@ -5,14 +5,14 @@
             "sitename":"LOFAF",
             "timerange":"jan. - apr. 2024",
             "image":"lofaf",
-            "desc":"a short-lived homestuck fansite, maintained from early to mid 2024. originally, i was planning on covering EVERYTHING \"official\", from hussie's previous MSPAs to the baby is you... sans hs2. the way i was going to cover all the content in each MSPA was by just... reading them! while taking notes in a .txt file that was hosted on my site... so i could pull up my notes to use at school!! :p however, once i fell behind on actually listing information on the site, i kinda just started to reread homestuck :( this left me with a mountain of work, and not much motivation to do it. LOFAF was doomed to fail simply due to scope!!! D:"
+            "desc":"a short-lived homestuck fansite, maintained from early to mid 2024. originally, i was planning on covering EVERYTHING \"official\", from hussie's previous MSPAs to the baby is you!!! ...sans hs2. i was going to cover everything in MSPA's storied history by just... reading about it! doing online research, analyzing the MSPAs by themselves, and taking notes in a .txt file was all i planned to do :p however, once i fell behind on actually listing information on the site, i kinda just started to reread homestuck :( this left me with a mountain of work, and not much motivation to do it. LOFAF was doomed to fail simply due to scope!!! D:"
         },
         "oldrandomjunk":{
             "siteurl":"https://thepersonever.net/randomjunk/home",
             "sitename":"random junk (old)",
             "timerange":"nov. 2022 - sep. 2023",
             "image":"oldrandomjunk",
-            "desc":"random junk... yeah. this was the first subsite i made! and you can really tell :/ it's been a little while, but looking back on old archives lead me to believe that random junk was based off of stuff dating back to the origin of the site! starting with a iframe-powered intro and broken audio, this site really embodys the \"okay what images from google can i use\" spirit of old TPE... though, the iframe-based random junk subsite was abandoned in favor of a new, javascript based subsite made in september of 2023, which you can find on the art page! the new version is maintained a little better... but i do need to rework it still"
+            "desc":"random junk... yeah. this was the first subsite i made! and you can really tell :/ it's been a little while, but looking back on old archives lead me to believe that random junk was based off of stuff dating back to the origin of the site! starting with a iframe-powered intro and broken audio, this site really embodys the \"okay what images from google can i use\" spirit of old TPE... though, the iframe-based random junk subsite was abandoned in favor of a new, javascript based subsite made in september of 2023, which you can find on the art page! the new version is maintained a little better... but i do need to rewrite a lot of it... both code and actual writing-wise."
         },
         "jfp":{
             "siteurl":"https://thepersonever.net/pikmin/",
@@ -33,8 +33,7 @@
             "sitename":"images",
             "timerange":"nov. 2022 - now",
             "image":"neocities",
-            "desc":"TPE has had... a lot of changes to integral images throughout the years. there's been two versions of both the home and general logo each! back in august of 2024, i wanted to test out krita... so, i recreated the home and general logo, along with the first three subsites' image links! when i moved from neocities to nekoweb in october of 2024, i also replaced the default neocities image to something a little more fitting. i've created a page where you can check out the new and old images, so you can understand what i'm talking about :D"
-        },
+            "desc":"TPE has had... a lot of changes to integral images throughout the years. there's been two versions of both the home and general logo each! back in august of 2024, i wanted to test out krita... so, i recreated the home and general logo, along with the first three subsites' image links! when i moved from neocities to nekoweb in october of 2024, i also replaced the default neocities image to something a little more... fitting. i've also made a page where you can check out the new and old images!! click \"go to site\" to check it out :D"},
         "tpemini":{
             "siteurl":"https://thepersonever.net/vault/tpemini/fakeindex",
             "sitename":"TPE mini",
@@ -54,7 +53,7 @@
             "sitename":"TPE mobile",
             "timerange":"early - nov. 2023 ",
             "image":"phone",
-            "desc":"back before i knew about responsive CSS, i tried to make a mobile version of my entire website - subsites and all. it didn't really work well though, due to the fact i JUST used css and static html!! scope issues killed this one early"
+            "desc":"back before i knew about responsive CSS, i tried to make a mobile version of my entire website - subsites and all. it didn't really work well though, due to the fact i JUST used css and static html!! i wasn't able nor cared enough to keep up with everything i did on the main site, so scope issues killed TPE mobile early"
         },
         "infobutton":{
             "siteurl":"https://thepersonever.net/personals",
