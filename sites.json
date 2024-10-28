@@ -56,7 +56,7 @@
             "desc":"back before i knew about responsive CSS, i tried to make a mobile version of my entire website - subsites and all. it didn't really work well though, due to the fact i JUST used css and static html!! i wasn't able nor cared enough to keep up with everything i did on the main site, so scope issues killed TPE mobile early"
         },
         "infobutton":{
-            "siteurl":"https://thepersonever.net/personals",
+            "siteurl":"https://github.com/rosefloase/tpevault",
             "sitename":"vault",
             "timerange":"october 2024 - now",
             "image":"vault",
