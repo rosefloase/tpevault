@@ -1,5 +1,5 @@
 {
-    "subsites":{
+"subsites":{
         "lofaf":{
             "siteurl":"https://thepersonever.net/homestuck/",
             "sitename":"LOFAF",
@@ -60,7 +60,7 @@
             "sitename":"vault",
             "timerange":"october 2024 - now",
             "image":"vault",
-            "desc":"hi! this flash was animated, programmed, and drawn by me! jade! thepersonever.net! yeah!!! :D i made this flash because i felt like i had unceremoniously cut a lot of this site's history back in september of this year, and that i owed the no longer maintained portions of this site a proper send-off... the song currently playing is crystalanthemums, by alex rosetti"
+            "desc":"hi! this flash was animated, programmed, and drawn by me! jade! thepersonever.net! yeah!!! :D i made this flash because i felt like i had unceremoniously cut a lot of this site's history back in september of this year, and that i owed the no longer maintained portions of this site a proper send-off... you can check out the source fla, along with a bunch of other files relating to this flash's development on the github repo linked here! the song currently playing is crystalanthemums, by alex rosetti"
         }
     }
 }
