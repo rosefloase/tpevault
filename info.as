@@ -17,6 +17,7 @@ package  {
 		private var classname;
 		private var currentmc;
 		private var innerinfo;
+		private var jademc;
 
 		private var rootie = this;
 		private var jsonpackage:subsites = new subsites;
@@ -43,6 +44,7 @@ package  {
 			textbox.x = 5.95
 			textbox.y = -218.45
 			innerinfo = textbox.innerMC;
+			jademc = jadeMC;
 		}
 
 		private function addbutton(gif, x, y){
@@ -73,12 +75,14 @@ package  {
 			innerinfo.gotosite.addEventListener(MouseEvent.CLICK, opensite);
 
 			textbox.gotoAndPlay("show");
+			jademc.gotoAndPlay("starttalking");
 		}
 
 		private function closetb(asdf){
 			innerinfo.gotosite.removeEventListener(MouseEvent.CLICK, opensite)
 			innerinfo.closetb.removeEventListener(MouseEvent.CLICK, closetb)
 			textbox.gotoAndPlay("hide")
+			jademc.gotoAndPlay("stoptalking");
 		}
 		private function opensite(asdf){
 			ExternalInterface.call("opensite", json[classname].siteurl)
